@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @merttasarr
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning Javascript and PHP
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail: mert.tasar.1998@gmail.com
 
 <!---
