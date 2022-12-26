@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @merttasarr
+- 👋 Hi, I’m @merttasar
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning Javascript and PHP
 - 📫 How to reach me mail: mert.tasar.1998@gmail.com
